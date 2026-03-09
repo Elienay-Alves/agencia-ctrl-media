@@ -60,3 +60,10 @@ html {
   background-color: #DDD;
   opacity: .9;
 }
+
+.company-info-titlebox {
+  position:absolute;
+  padding-left: 10%;
+  top: 40px;
+  width: 500px;
+}
