@@ -9,6 +9,8 @@ html {
   height: 600px;
   background-image: url('../img/capa2.jpg');
   background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
   position: relative;
 }
 
