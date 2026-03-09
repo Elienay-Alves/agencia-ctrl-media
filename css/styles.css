@@ -37,3 +37,8 @@ html {
   color: #FFF;
   padding-top: 65px;
 }
+
+.box-banner-title h1 {
+  font-size: 32px;
+  margin-bottom: 25px;
+}
