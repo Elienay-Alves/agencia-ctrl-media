@@ -67,3 +67,7 @@ html {
   top: 40px;
   width: 500px;
 }
+
+.company-info-titlebox h2, .company-info-titlebox p {
+  color: #222;
+}
