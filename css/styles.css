@@ -29,3 +29,11 @@ html {
   position: relative;
 }
 
+.box-banner-title {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  top: 0;
+  color: #FFF;
+  padding-top: 65px;
+}
